@@ -1,4 +1,4 @@
-'''Train CIFAR10 with PyTorch.'''
+'''Train dynamic routing with PyTorch.'''
 from __future__ import print_function
 
 import torch
